@@ -6,5 +6,5 @@ app.get('/',(req,res)=> {
 });
 
 app.listen(8000, (err) =>{
-    console.log("Successful",err);
+    console.log("Get Successful",err);
 });
